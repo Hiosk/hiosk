@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Mendes</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React, Electron, Vue, Solidty**
+- 🌱 I’m currently learning **React, Electron, Vue and Solidty**
 
 - 👯 Estou desenvolvendo uma ferramenta para facilitar o aprendizado de documentações **SmartDocs**
 
